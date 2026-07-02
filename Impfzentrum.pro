@@ -13,3 +13,5 @@ HEADERS += \
     include/arztpraxis.h \
     include/callcenter.h \
     include/termin.h
+
+INCLUDEPATH += include
